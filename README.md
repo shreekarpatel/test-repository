@@ -1,2 +1,2 @@
-# test-repository
-This is the second example   
+# My very first repo
+Finally the beginner knowledge of git&github is completed   
